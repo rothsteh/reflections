@@ -1,0 +1,7 @@
+allowed me to find a typo in code quickly
+you can go back to find things that worked previously
+You can choose when to make a commit but you can forget
+Files are typically not related in a system like google docs
+git log will get the history and git diff can tell you what changed
+How might using version control make you more confident to make changes that could break something?
+you can always go back to a previous version
