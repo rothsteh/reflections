@@ -1,4 +1,10 @@
 What happens when you initialize a repository. Why do you need to do it?
 It creates a repo. you need to create it. :x
-:x
-
+How is the staging area different from the working directory and the repo what value do you think it offers?
+It gives you a place to store stuff before committing. Gives you a chance to change your mind before you commit.
+How can you use the staging area to make sure you have one commit per logical change. 
+The staging area allows you to break your changes up into smaller commits.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches help when it is time to break the project up logically. 
+How do the diagrams help you visualize the branch structure?
+THey can help you locate unreachable branches
